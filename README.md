@@ -51,116 +51,71 @@
 
 <a name="fiw"></a>
 ## 2 Firewall
-
 ### 동영상
-
 - https://youtu.be/vrh0epPAC5w?t=1444
 
 ### 요약
-
 - ACL (Access Control List)
-
 	- ACL 가지고 제어함
-
 		- https://youtu.be/vrh0epPAC5w
-
 		- implicit deny 정책
 
 - Firewall type
-
 	- Host based
-
 		- software firewall
 		- 컴퓨터한대에 설치해서 그 컴퓨터만 보호
-
 	- Network based
-
 		- 네트워크 전체에 적용
-
 	- stateful
-
 		- connections, data streams 모두 모니터링함
-
 	- stateless
-
 		- acl 사용하는 firewall
-
 	- firewall
-
 		- firewall_image.jpg
 
 ## 3 IDS / IPS
-
 ### 동영상
-
 - https://youtu.be/_gHMkEKGwBM
-
 - https://www.youtube.com/watch?v=rvKQtRklwQ4
 
 ### 요약
-
 - IDS (Intrusion Detection System)
-
 	- 작동위치
-
 		- 본인 서비스 네트워크 안에서 작동 (방화벽 뒤에 존재함)
-
 	- 역할
-
 		- 위험을 감지하고 알림을 전송함
 		- Switch 에서 거쳐가는 데이터를 모두 감시
-
 	- 타입
-
 		- HIDS : Host-based IDS on Computer
 		- NIDS : Network-based IDS on network
-
 - IPS (Intrusion Protection System)
-
 	- 역할
-
 		- 위험을 감지하고 알림을 전송함
 		- 보호방법
-
 			- signature match 를 통해서 차단
-
 				- signature DB의 내용과 비교작업을 수행함
-
 			- Anomaly Detection 통해서 차단
-
 				- 정상트래픽 기준설정하고 그것과 다르면 차단
 
 ## 4 DMZ
-
 ### 동영상
-
 - https://youtu.be/dqlzQXo1wqo?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg
 
 ## Datacenter network architecture
 
 ## 패킷의 여행 (A to Z)
-
 ### https://youtu.be/EOYe71RWMvk
 
 ## 정신건강에 도움되는 자료
-
 ### CISCO LAN design
-
 - https://www.cisco.com/c/en/us/solutions/design-zone.html#~featured
-
 ### Cable
-
 - https://youtu.be/vrh0epPAC5w
-
 ### cisco icon
-
 - https://www.cisp.or.kr/wp-content/uploads/2020/01/Cisco-Network-Topology-Icons.zip
-
 - https://www.cisco.com/c/dam/en_us/about/ac50/ac47/icon-library-production-oct2016.zip
-
 ### Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버
 
 ## 최초 작성일
-
-### 2021-01-19
+- 2021-01-19
 
