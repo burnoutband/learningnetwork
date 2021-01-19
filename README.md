@@ -2,8 +2,13 @@
 
 ## Table of Contents
 1. [Hub, Switch & Router](#1HSR)  
-2. [Firewall](#fiw)
-2. 
+2. [Firewall](#FIW)
+3. [IDS/IPS](#IDPS)
+4. [DMZ](#DMZ)
+[Datacenter Nework Architecture](#DNA)
+[정신건강에 도움되는 자료](#GOODREF)
+[최초작성일](#FIRSTDAY)
+
 
 <a name="1HSR"></a>
 ## 1 Hub, Switch & Router
@@ -73,6 +78,7 @@
 	- firewall
 		- firewall_image.jpg
 
+<a name="IDPS"></a>
 ## 3 IDS / IPS
 ### 동영상
 - https://youtu.be/_gHMkEKGwBM
@@ -97,15 +103,19 @@
 			- Anomaly Detection 통해서 차단
 				- 정상트래픽 기준설정하고 그것과 다르면 차단
 
+<a name="DMZ"></a>
 ## 4 DMZ
 ### 동영상
 - https://youtu.be/dqlzQXo1wqo?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg
 
+<a name="DNA"></a>
 ## Datacenter network architecture
 
+<a name="PAZ"></a>
 ## 패킷의 여행 (A to Z)
 ### https://youtu.be/EOYe71RWMvk
 
+<a name="GOODREF"></a>
 ## 정신건강에 도움되는 자료
 ### CISCO LAN design
 - https://www.cisco.com/c/en/us/solutions/design-zone.html#~featured
@@ -116,6 +126,7 @@
 - https://www.cisco.com/c/dam/en_us/about/ac50/ac47/icon-library-production-oct2016.zip
 ### Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버
 
+<a name="FIRSTDAY"></a>
 ## 최초 작성일
 - 2021-01-19
 
