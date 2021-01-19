@@ -5,81 +5,51 @@
 2. [Firewall](#fiw)
 2. 
 
-<a name-"#1HSR"></a>
+<a name="#1HSR"></a>
 ## 1 Hub, Switch & Router
-
 ### 동영상
-
 - https://youtu.be/1z0ULvg_pW8
 
 ### 요약
-
 - Hub 
-
 	- 데이터가 하나 유입되면 나머지 포트에 복사해서 Brodcast 함
-
 		- 네트워크에 부하발생
-
 	- 같은 네트워크에서 사용
-
 		- same subnet
-
 	- OSI 7 계층 layer 1 device
-
 		- https://youtu.be/MeSRaKrOCYk?t=67
-
 		- Bit 데이터 취급
 		- 리피터도 해당됨
-
 - Switch
-
 	- mac address 사용하는 장비
-
 		- bridge 장비도 mac address 사용
-
 			- 보통 두 허브 사이에 두고 사용한다.
-
 	- Mac address 를 테이블로 보관하여 그걸 보고 1대1 통신함
 	- 같은 네트워크에서 사용
-
 		- same subnet
-
 	- OSI 7 계층 Layer 2 device
-
 		- https://youtu.be/MeSRaKrOCYk?t=155
-
 		- 이더넷 Frames 데이터를 취급
-
 	- L3, L4, L7 스위치
-
 		- http://wiki.hash.kr/index.php?title=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EC%8A%A4%EC%9C%84%EC%B9%98&mobileaction=toggle_view_desktop
-
 - Router
-
 	- 패킷내의 IP 검사하여 패킷이 자체 네트워크 용인지 다른 네트워크 용인지 확인함
-
 		- Routing table에 해당 IP 정보 있으면 수신
 		- Routing table에 해당 IP 정보 없으면 다르네트워크로 보냄
-
 	- 본질적으로 네트워크의 게이트웨이임
 	- IP 사용하는 장비
 	- OSI 7 계층 Layer 3 device
-
 		- https://youtu.be/MeSRaKrOCYk?t=196
-
 		- Data package 를 취급
 
 - 결론
-
 	- Hub & Switch 는 네트워크를 구성할 때 사용
 	- Router 는 네트워크와 네트워크를 연결할 때 사용
-
 - Hub, Switch & Router 배치
-
 	- https://www.geeksforgeeks.org/difference-between-router-and-switch/
 
 
-<a name-"#fiw"></a>
+<a name="#fiw"></a>
 ## 2 Firewall
 
 ### 동영상
