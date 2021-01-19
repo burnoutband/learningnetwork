@@ -5,7 +5,7 @@
 2. [Firewall](#fiw)
 2. 
 
-<a name="#1HSR"></a>
+<a name="1HSR"></a>
 ## 1 Hub, Switch & Router
 ### 동영상
 - https://youtu.be/1z0ULvg_pW8
@@ -49,7 +49,7 @@
 	- https://www.geeksforgeeks.org/difference-between-router-and-switch/
 
 
-<a name="#fiw"></a>
+<a name="fiw"></a>
 ## 2 Firewall
 
 ### 동영상
