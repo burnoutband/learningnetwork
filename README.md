@@ -4,8 +4,8 @@
 1. [Hub, Switch & Router](#1HSR)  
 2. [Firewall](#FIW)
 3. [IDS/IPS](#IDPS)
-4. [DMZ](#DMZ)
-5.[Datacenter Nework Architecture](#DNA)
+4. [Demilitarized Zone-DMZ](#DMZ)
+[Datacenter Nework Architecture](#DNA)
 [정신건강에 도움되는 자료](#GOODREF)
 [최초작성일](#FIRSTDAY)
 
