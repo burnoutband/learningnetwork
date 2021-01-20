@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [Datacenter Nework Architecture](#DNA)
-	1.1 [Hub, Switch & Router](#1HSR)  
-	1.2 [Firewall](#FIW)
-	1.3 [IDS/IPS](#IDPS)
-	1.4 [Demilitarized Zone-DMZ](#DMZ)
+	1.1. [Hub, Switch & Router](#1HSR)  
+	1.2. [Firewall](#FIW)
+	1.3. [IDS/IPS](#IDPS)
+	1.4. [Demilitarized Zone-DMZ](#DMZ)
 2. 
 3.
 4.
@@ -15,8 +15,9 @@
 [최초작성일](#FIRSTDAY)
 
 
-<a name="1HSR"></a>
+<a name="DNA"></a>
 ## 1. Datacenter network architecture
+<a name="1HSR"></a>
 ### 1 Hub, Switch & Router
 - 동영상
 	- https://youtu.be/1z0ULvg_pW8
