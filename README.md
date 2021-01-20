@@ -1,23 +1,24 @@
-# Youtube로 배우는 Network
+- [Youtube로 배우는 Network](#youtube------network)
+  * [1. Datacenter network architecture](#1-datacenter-network-architecture)
+    + [1.1 Hub, Switch & Router](#11-hub--switch---router)
+    + [1.2 Firewall](#12-firewall)
+    + [1.3 IDS / IPS](#13-ids---ips)
+    + [1.4 DMZ](#14-dmz)
+  * [2. 패킷의 여행 (A to Z)](#2---------a-to-z-)
+  * [※ 정신건강에 도움되는 자료](#---------------)
+    + [CISCO Datacenter Design playbook](#cisco-datacenter-design-playbook)
+    + [cisco icon](#cisco-icon)
+    + [Cable](#cable)
+    + [Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버](#internet------router------firewall------ids-ips------switch--------)
+    + [하위 주제 5](#------5)
+  * [최초 작성일](#------)
+    + [2021-01-19](#2021-01-19)
 
-## Table of Contents
-1. [Datacenter Nework Architecture](#DNA)
-	1.1. [Hub, Switch & Router](#1HSR)  
-	1.2. [Firewall](#FIW)
-	1.3. [IDS/IPS](#IDPS)
-	1.4. [Demilitarized Zone-DMZ](#DMZ)
-2. 
-3.
-4.
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-[정신건강에 도움되는 자료](#GOODREF)
-[최초작성일](#FIRSTDAY)
-
-
-<a name="DNA"></a>
+<a name="1-datacenter-network-architecture"></a>
 ## 1. Datacenter network architecture
-<a name="1HSR"></a>
+<a name="11-hub--switch---router"></a>
 ### 1 Hub, Switch & Router
 - 동영상
 	- https://youtu.be/1z0ULvg_pW8
