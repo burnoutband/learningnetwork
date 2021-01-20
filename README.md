@@ -2,13 +2,13 @@
 
 ## Table of Contents
 1. [Datacenter Nework Architecture](#DNA)
-	1. [Hub, Switch & Router](#1HSR)  
-	2. [Firewall](#FIW)
-	3. [IDS/IPS](#IDPS)
-	4. [Demilitarized Zone-DMZ](#DMZ)
-5. 
-6.
-7.
+	1.1 [Hub, Switch & Router](#1HSR)  
+	1.2 [Firewall](#FIW)
+	1.3 [IDS/IPS](#IDPS)
+	1.4 [Demilitarized Zone-DMZ](#DMZ)
+2. 
+3.
+4.
 
 
 [정신건강에 도움되는 자료](#GOODREF)
@@ -56,7 +56,8 @@
 		- Router 는 네트워크와 네트워크를 연결할 때 사용
 	- Hub, Switch & Router 배치
 		- https://www.geeksforgeeks.org/difference-between-router-and-switch/
-### 2 Firewall
+<a name="FIW"></a>
+### 1.2 Firewall
 - 동영상
 	- https://youtu.be/vrh0epPAC5w?t=1444
 - 요약
@@ -76,7 +77,9 @@
 			- acl 사용하는 firewall
 		- firewall
 			- firewall_image.jpg
-### 3 IDS / IPS
+
+<a name="IDPS"></a>
+### 1.3 IDS / IPS
 - 동영상
 	- https://youtu.be/_gHMkEKGwBM
 	- https://www.youtube.com/watch?v=rvKQtRklwQ4
@@ -98,11 +101,17 @@
 					- signature DB의 내용과 비교작업을 수행함
 				- Anomaly Detection 통해서 차단
 					- 정상트래픽 기준설정하고 그것과 다르면 차단
-### 4 DMZ
+
+<a name="DMZ"></a>
+### 1.4 DMZ
 - 동영상
 	- https://youtu.be/dqlzQXo1wqo?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg
+
+<a name="PKTRIP"></a>
 ## 2. 패킷의 여행 (A to Z)
 ### https://youtu.be/EOYe71RWMvk
+
+<a name="GOODREF"></a>
 ## ※ 정신건강에 도움되는 자료
 ### CISCO Datacenter Design playbook
 - https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/enterprise-network-security/data-center-design-playbook.pdf
@@ -113,7 +122,8 @@
 - https://youtu.be/vrh0epPAC5w
 ### Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버
 ### 하위 주제 5
+
+<a name="FIRSTDAY"></a>
 ## 최초 작성일
 ### 2021-01-19
-
 
