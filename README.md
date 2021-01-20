@@ -110,7 +110,8 @@
 
 
 ## 2. 패킷의 여행 (A to Z)
-- https://youtu.be/EOYe71RWMvk
+- 동영상
+	- https://youtu.be/EOYe71RWMvk
 
 
 ## ※ 정신건강에 도움되는 자료
