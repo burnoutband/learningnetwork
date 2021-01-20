@@ -14,7 +14,6 @@
   * [최초 작성일](#------)
     + [2021-01-19](#2021-01-19)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Youtube로 배우는 Network
 ## 1. Datacenter network architecture
