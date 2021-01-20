@@ -16,9 +16,8 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-<a name="1-datacenter-network-architecture"></a>
+# Youtube로 배우는 Network
 ## 1. Datacenter network architecture
-<a name="11-hub--switch---router"></a>
 ### 1 Hub, Switch & Router
 - 동영상
 	- https://youtu.be/1z0ULvg_pW8
