@@ -11,7 +11,6 @@
     + [cisco icon](#cisco-icon)
     + [Cable](#cable)
     + [Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버](#internet------router------firewall------ids-ips------switch--------)
-    + [하위 주제 5](#------5)
   * [최초 작성일](#------)
     + [2021-01-19](#2021-01-19)
 
@@ -124,7 +123,6 @@
 ### Cable
 - https://youtu.be/vrh0epPAC5w
 ### Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버
-### 하위 주제 5
 
 
 ## 최초 작성일
