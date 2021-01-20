@@ -18,7 +18,7 @@
 
 # Youtube로 배우는 Network
 ## 1. Datacenter network architecture
-### 1 Hub, Switch & Router
+### 1.1 Hub, Switch & Router
 - 동영상
 	- https://youtu.be/1z0ULvg_pW8
 - 요약
@@ -57,7 +57,8 @@
 		- Router 는 네트워크와 네트워크를 연결할 때 사용
 	- Hub, Switch & Router 배치
 		- https://www.geeksforgeeks.org/difference-between-router-and-switch/
-<a name="FIW"></a>
+
+
 ### 1.2 Firewall
 - 동영상
 	- https://youtu.be/vrh0epPAC5w?t=1444
@@ -79,7 +80,7 @@
 		- firewall
 			- firewall_image.jpg
 
-<a name="IDPS"></a>
+
 ### 1.3 IDS / IPS
 - 동영상
 	- https://youtu.be/_gHMkEKGwBM
@@ -103,16 +104,16 @@
 				- Anomaly Detection 통해서 차단
 					- 정상트래픽 기준설정하고 그것과 다르면 차단
 
-<a name="DMZ"></a>
+
 ### 1.4 DMZ
 - 동영상
 	- https://youtu.be/dqlzQXo1wqo?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg
 
-<a name="PKTRIP"></a>
-## 2. 패킷의 여행 (A to Z)
-### https://youtu.be/EOYe71RWMvk
 
-<a name="GOODREF"></a>
+## 2. 패킷의 여행 (A to Z)
+- https://youtu.be/EOYe71RWMvk
+
+
 ## ※ 정신건강에 도움되는 자료
 ### CISCO Datacenter Design playbook
 - https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/enterprise-network-security/data-center-design-playbook.pdf
@@ -124,7 +125,6 @@
 ### Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버
 ### 하위 주제 5
 
-<a name="FIRSTDAY"></a>
+
 ## 최초 작성일
 ### 2021-01-19
-
