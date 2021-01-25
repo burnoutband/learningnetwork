@@ -1,7 +1,13 @@
+# 스터디 정책
+## 주제선정
+- 데이터센터 네트워크 구조
+- 서버 - 클라이언트 간 데이터 전송 이해
+## 운영
+- 매주 / 1가지 주제 / 20분 내외
+- 자발적 참여
+	- 참여자 없으면 운영자가 발표
+
 - [Youtube로 배우는 Network](#youtube------network)
-  * [스터디 정책](#------)
-    + [주제선정](#----)
-    + [운영](#--)
   * [1. Datacenter network architecture](#1-datacenter-network-architecture)
     + [1.1 Hub, Switch & Router](#11-hub--switch---router)
     + [1.2 Firewall](#12-firewall)
