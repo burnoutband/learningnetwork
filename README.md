@@ -19,12 +19,10 @@
     + [Cable](#cable)
     + [Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버](#internet------router------firewall------ids-ips------switch--------)
     + [네트워크 전반](#-------)
-
   * [CISCO section](#cisco-section)
     + [CISCO Datacenter Design playbook](#cisco-datacenter-design-playbook)
     + [Cisco icon](#cisco-icon)
-    + [장비](#--)
-    
+    + [장비](#--)    
   * [최초 작성일](#------)
     + [2021-01-19](#2021-01-19)
 
