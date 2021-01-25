@@ -191,23 +191,7 @@
 ### Cisco icon
 - https://www.cisp.or.kr/wp-content/uploads/2020/01/Cisco-Network-Topology-Icons.zip
 - https://www.cisco.com/c/dam/en_us/about/ac50/ac47/icon-library-production-oct2016.zip
-### CCNA
-- 강좌
-	- Free CCNA (networkchuck)
-		- https://youtu.be/S7MNX_UD7vY
-	- 계영수
-		- https://youtu.be/JfuPLQ6DIcg
-- 내용
-	- Spine and Leaf architecture
-		- https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.html#Spineandleafarchitecture
-- 교재
-	- Volume 1
-		- https://drive.google.com/file/d/1EPGHrEn5XjflHNOfl1jqQxY3LAgcNFzG/view
-	- Volume 2
-		- https://drive.google.com/file/d/1wRzBgEf-igqH3wf8gEDe7XjQ5LqClTBV/view
-	- https://learningnetworkstore.cisco.com/
 ### 장비
 - Cisco Nexus 7000
 	- https://www.cisco.com/c/dam/global/ko_kr/products/switches/nexus-7000-series-switches/Cisco_Nexus_7000_F2-Series_48-Port_1_and_10_Gigabit_Ethernet_Module_data_sheet.pdf
 	- L2 & L3 스위치
-*XMind - Trial Version*
