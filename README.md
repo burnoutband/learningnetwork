@@ -217,8 +217,6 @@
 ### Internet ---> Router ---> Firewall ---> IDS/IPS ---> Switch ---> 서버
 ### 네트워크 전반
 - https://www.youtube.com/c/NetworkingClass/playlists?view=50&sort=dd&shelf_id=2
-## 최초 작성일
-### 2021-01-19
 ## CISCO section
 ### CISCO Datacenter Design playbook
 - https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/enterprise-network-security/data-center-design-playbook.pdf
@@ -229,3 +227,5 @@
 - Cisco Nexus 7000
 	- https://www.cisco.com/c/dam/global/ko_kr/products/switches/nexus-7000-series-switches/Cisco_Nexus_7000_F2-Series_48-Port_1_and_10_Gigabit_Ethernet_Module_data_sheet.pdf
 	- L2 & L3 스위치
+## 최초 작성일
+- 2021-01-19
