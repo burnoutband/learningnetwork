@@ -100,8 +100,7 @@
 			- connections, data streams 모두 모니터링함
 		- stateless
 			- acl 사용하는 firewall
-		- firewall
-			- firewall_image.jpg
+		
 ### 1.3 IDS / IPS
 - 동영상
 	- https://youtu.be/_gHMkEKGwBM
