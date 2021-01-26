@@ -141,7 +141,8 @@
 ### 1.6 Overay Network
 - VXLAN
 ### Current Datacenter Network
-- https://www.youtube.com/watch?v=6-66D9J5PkY
+- 동영상
+	- https://www.youtube.com/watch?v=6-66D9J5PkY
 - 구성
 	- 전통방식
 		- 라우터
