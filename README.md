@@ -142,35 +142,35 @@
 - VXLAN
 ### Current Datacenter Network
 - https://www.youtube.com/watch?v=6-66D9J5PkY
-	- 구성
-		- 전통방식
-			- 라우터
-			- Core 스위치
-				- 백본스위치
-			- 분배 스위치
-			- ToR 스위치
-				- access switch
-				- 랙 맨위에 설치
-			- 특징
-				- 분산형 정책관리 / 운영
-				- 폐쇄적 네트워크 운영체제
-				- 계층형 (티어링) 네트워크 아키텍처
-				- 분업형 인프라 관리 조직
-				- 서비스 증설시 증설대상
-					- 서버랙
-					- 네트워크 장비
-					- 스토리지 장비
-		- Leaf / Spine 방식
-	- 변화이유(전통방식 --> Leaf / Spine 방식)
-		- 하이브리드 클라우드
-		- 인프라측면의 민첩성 강조
-		- 자동화 추세
-			- 스크립트 수준을 넘어가고 있음
-		- 정책 기반
-			- 사용자 의도파악에 방점
-		- https://www.slideshare.net/CiscoKorea/2-60481681
-		- https://youngmind.tistory.com/entry/%E2%80%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%A4%EA%B3%84%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4%E2%80%9D?category=394662
-			- EAST - WEAS 흐름이 더 많음
+- 구성
+	- 전통방식
+		- 라우터
+		- Core 스위치
+			- 백본스위치
+		- 분배 스위치
+		- ToR 스위치
+			- access switch
+			- 랙 맨위에 설치
+		- 특징
+			- 분산형 정책관리 / 운영
+			- 폐쇄적 네트워크 운영체제
+			- 계층형 (티어링) 네트워크 아키텍처
+			- 분업형 인프라 관리 조직
+			- 서비스 증설시 증설대상
+				- 서버랙
+				- 네트워크 장비
+				- 스토리지 장비
+	- Leaf / Spine 방식
+- 변화이유(전통방식 --> Leaf / Spine 방식)
+	- 하이브리드 클라우드
+	- 인프라측면의 민첩성 강조
+	- 자동화 추세
+		- 스크립트 수준을 넘어가고 있음
+	- 정책 기반
+		- 사용자 의도파악에 방점
+	- https://www.slideshare.net/CiscoKorea/2-60481681
+	- https://youngmind.tistory.com/entry/%E2%80%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%A4%EA%B3%84%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4%E2%80%9D?category=394662
+		- EAST - WEAS 흐름이 더 많음
 ## 2. 패킷의 여행 (A to Z)
 ### IP Packet 및 Ethernet Frame 전송방식
 - 동영상
