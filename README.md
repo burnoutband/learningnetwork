@@ -1,9 +1,8 @@
 # Table of Contents
 
-|     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | 스터디 목록 | 내용  | 발표  | 발표일 | 자료  |
-| Datacenter Network Architecture | 1. Hub, Switch & Router | 이영섭님 | 2021-01-28 |     |
+| Datacenter Network Architecture | 1. Hub, Switch & Router | xxx님 | 2021-01-28 |     |
 |     | 2. Firewall |     |     |     |
 |     | 3. IDS / IPS |     |     |     |
 |     | 4. DMZ |     |     |     |
