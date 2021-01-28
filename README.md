@@ -36,7 +36,7 @@
 ### 운영
 - 매주 / 1가지 주제 / 20분 내외
 - 자발적 참여
-	- 참여자 없으면 운영자가 발표
+	- 참여자 없으면 ~~운영자가 발표~~
 ## 1. Datacenter network architecture
 ### 1.1 Hub, Switch & Router
 - 동영상
